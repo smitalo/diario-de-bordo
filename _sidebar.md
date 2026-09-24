@@ -4,7 +4,7 @@
 - [Avaliação na disciplina](docs/avaliacao.md)
 - [GitHub Pages no projeto da disciplina](docs/github-pages.md)
 - Minhas entradas
-  - [Primeiro envio](blog/2026-09-23-primeiro-envio.md)
+  - [Primeiro envio](blog2026-23-09-processo-da-criacao-do-projeta-ate-agora)
 
 <!--
 Toda vez que você criar uma entrada nova em blog/ (5x no semestre, uma por
