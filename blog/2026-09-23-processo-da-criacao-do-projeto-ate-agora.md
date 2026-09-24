@@ -1,8 +1,8 @@
 ---
-title: "<Fase 1> — <23/09/2026>"
+title: "Fase 1 — 23/09/2026"
 authors: [Italo Souza Moura]
-tags: [formacao-equipe]
-date: 2026-23-09
+tags: [primeiro-envio]
+date: 2026-09-23
 ---
 
 <!--
